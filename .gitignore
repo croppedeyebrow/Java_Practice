@@ -36,5 +36,6 @@ out/
 ### VS Code ###
 .vscode/
 
-src/main/resources/templates/application.properties
+
 src/main/java/TestFile/practice/config/EmailConfig.java
+application.properties
